@@ -9,10 +9,10 @@ Un chingo de razas principales y aliadas, pero ojo, solo dos facciones cuentan p
 ###Imagenes
 
  -Allí te va el Arthas
- ![Arthas](C:\repo-ejer-git\assets\ArthasImg.jpg)
+ ![Arthas](repo-ejer-git\assets\ArthasImg.jpg)
 
  -Va otra pero con gif
- ![Arthas Gif](C:\repo-ejer-git\assets\Arthas.gif)
+ ![Arthas Gif](repo-ejer-git\assets\Arthas.gif)
 
 🦕
 
@@ -21,7 +21,7 @@ Un chingo de razas principales y aliadas, pero ojo, solo dos facciones cuentan p
  [Checa prro videazo!](https://youtu.be/xEvnuWxTiYg?si=B-nhQhiW6B2DFD5c)
 
 
-class Hechicero {
+```class Hechicero {
   constructor(nombre) {
     this.nombre = nombre;
     this.mana = 100;
@@ -38,7 +38,7 @@ class Hechicero {
 }
 
 const guldan = new Hechicero("Gul'dan");
-guldan.lanzarHechizo("Llama del Caos");
+guldan.lanzarHechizo("Llama del Caos");```
 
 ---
 Arito mi gente *XD*
