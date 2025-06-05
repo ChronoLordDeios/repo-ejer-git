@@ -1,27 +1,44 @@
-#Warcraft III
+#Bienvenido a WoW
 
-Este juego está perrón
+Esto es WoW mi kbron, *Pisad con cuidado*
 
-##caracteristicas
+##Caracteristicas del WoW
 
- -Reign of Chaos
- -The Frozen Throne
+Un chingo de razas principales y aliadas, pero ojo, solo dos facciones cuentan para Azeroth
 
-##Arthas Vs Uther
+###Imagenes
 
-Arthas el traidor se putió a su compa Uther por no dejarse querer
- 
- *Se mamó la neta **XD**
+ -Allí te va el Arthas
+ ![Arthas](C:\repo-ejer-git\assets\ArthasImg.jpg)
 
-```JS
-    console.log("Hola mi gente desde el mundo de la manzana");
-```
-### Asi es weyes soy el sr de la tienda
+ -Va otra pero con gif
+ ![Arthas Gif](C:\repo-ejer-git\assets\Arthas.gif)
 
- *Prankedy*
+🦕
 
- *XD
+###Mi gente x ultimo un videito
+
+ [Checa prro videazo!](https://youtu.be/xEvnuWxTiYg?si=B-nhQhiW6B2DFD5c)
+
+
+class Hechicero {
+  constructor(nombre) {
+    this.nombre = nombre;
+    this.mana = 100;
+  }
+
+  lanzarHechizo(hechizo) {
+    if (this.mana >= 20) {
+      console.log(`${this.nombre} lanza ${hechizo} 🔥`);
+      this.mana -= 20;
+    } else {
+      console.log(`${this.nombre} no tiene suficiente maná ❌`);
+    }
+  }
+}
+
+const guldan = new Hechicero("Gul'dan");
+guldan.lanzarHechizo("Llama del Caos");
 
 ---
-
-¿Soyel autor mis cabros, el chronolorddeios"!!
+Arito mi gente *XD*
