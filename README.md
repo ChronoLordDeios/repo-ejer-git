@@ -9,10 +9,10 @@ Un chingo de razas principales y aliadas, pero ojo, solo dos facciones cuentan p
 ###Imagenes
 
  -Allí te va el Arthas
- ![Arthas](repo-ejer-git\assets\ArthasImg.jpg)
+ ![Arthas](assets\ArthasImg.jpg)
 
  -Va otra pero con gif
- ![Arthas Gif](repo-ejer-git\assets\Arthas.gif)
+ ![Arthas Gif](assets\Arthas.gif)
 
 🦕
 
