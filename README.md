@@ -1,2 +1,3 @@
 # repo-ejer-git
-Boobs
+Thor
+Saludos mi gente desde el editor de Nano GNU!
